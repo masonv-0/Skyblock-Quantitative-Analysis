@@ -1,7 +1,7 @@
 # Skyblock Quantitative Analysis
 
 ## Overview
-This project is the start of my exploration of quantitative finance, an interest which was sparked by TigerQuant, a club at Mizzou that focuses on the intersection of computer science and finance. I took some of the big picture ideas we talked about and applied them to the economy of a videogame I used to play a lot: Hypixel Skyblock. 
+This project is the start of my exploration of quantitative finance, an interest which was sparked by TigerQuant, a club at Mizzou that focuses on the intersection of computer science and finance. I took some of the big picture ideas we talked about and applied them to the economy of a videogame I used to play a lot, Hypixel Skyblock. 
 
 ---
 
